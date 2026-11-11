@@ -1,0 +1,40 @@
+@import "tailwindcss" source(none);
+@source "../src";
+@import "tw-animate-css";
+
+/* Manrope, self-hosted (OFL). Variable weight 400–800; latin-ext carries the rupee sign (₹). */
+@font-face { font-family: "Manrope"; font-style: normal; font-weight: 400 800; font-display: swap; src: url("./assets/fonts/manrope-latin.woff2") format("woff2"); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: "Manrope"; font-style: normal; font-weight: 400 800; font-display: swap; src: url("./assets/fonts/manrope-latin-ext.woff2") format("woff2"); unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@theme inline {
+  --radius-sm: calc(var(--radius) - 4px); --radius-md: calc(var(--radius) - 2px); --radius-lg: var(--radius); --radius-xl: calc(var(--radius) + 4px);
+  --color-background: var(--background); --color-foreground: var(--foreground); --color-card: var(--card); --color-card-foreground: var(--card-foreground); --color-popover: var(--popover); --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary); --color-primary-foreground: var(--primary-foreground); --color-primary-strong: var(--primary-strong); --color-secondary: var(--secondary); --color-secondary-foreground: var(--secondary-foreground); --color-muted: var(--muted); --color-muted-foreground: var(--muted-foreground); --color-accent: var(--accent); --color-accent-foreground: var(--accent-foreground); --color-brand-soft: var(--brand-soft); --color-ink: var(--ink); --color-success: var(--success); --color-success-strong: var(--success-strong); --color-destructive: var(--destructive); --color-border: var(--border); --color-input: var(--input); --color-ring: var(--ring);
+  --font-sans: "Manrope", ui-sans-serif, system-ui, sans-serif; --font-display: "Manrope", ui-sans-serif, system-ui, sans-serif;
+}
+
+:root { --radius: .75rem; --background: oklch(1 0 0); --foreground: oklch(.25 .04 256); --card: oklch(1 0 0); --card-foreground: oklch(.25 .04 256); --popover: oklch(1 0 0); --popover-foreground: oklch(.25 .04 256); --primary: oklch(.55 .13 248); --primary-strong: oklch(.42 .1 248); --primary-foreground: oklch(.99 0 0); --secondary: oklch(.96 .02 247); --secondary-foreground: oklch(.35 .08 248); --muted: oklch(.97 .01 250); --muted-foreground: oklch(.51 .025 255); --accent: oklch(.72 .17 53); --accent-foreground: oklch(.25 .04 256); --brand-soft: oklch(.96 .025 243); --ink: oklch(.27 .07 250); --success: oklch(.6 .13 157); --success-strong: oklch(.42 .11 157); --destructive: oklch(.53 .19 27); --border: oklch(.91 .015 250); --input: oklch(.91 .015 250); --ring: oklch(.55 .13 248); --shadow-card: 0 8px 28px color-mix(in oklab, var(--ink) 7%, transparent); --shadow-card-hover: 0 16px 40px color-mix(in oklab, var(--ink) 13%, transparent); --shadow-nav: 0 8px 24px color-mix(in oklab, var(--ink) 6%, transparent); }
+
+@layer base { * { border-color: var(--color-border); } html { scroll-behavior: smooth; } body { margin: 0; background: var(--color-background); color: var(--color-foreground); font-family: var(--font-sans); } h1,h2,h3,h4 { letter-spacing: 0; } :focus-visible { outline-color: var(--color-ring); } button,a,summary { -webkit-tap-highlight-color: transparent; } }
+
+@utility container-shell { width: min(100% - 2rem, 76rem); margin-inline: auto; }
+@utility eyebrow { font-size: .75rem; line-height: 1rem; font-weight: 800; text-transform: uppercase; letter-spacing: .12em; color: var(--color-primary-strong); }
+@utility rounded-card { border-radius: 1rem; }
+@utility shadow-card { box-shadow: var(--shadow-card); }
+@utility shadow-card-hover { box-shadow: var(--shadow-card-hover); }
+@utility shadow-nav { box-shadow: var(--shadow-nav); }
+@utility social-dot { display: grid; width: 2.25rem; height: 2.25rem; place-items: center; border-radius: 999px; background: color-mix(in oklab, var(--primary-foreground) 10%, transparent); }
+@utility bg-grid { background-image: linear-gradient(to right, color-mix(in oklab, var(--primary) 9%, transparent) 1px, transparent 1px), linear-gradient(to bottom, color-mix(in oklab, var(--primary) 9%, transparent) 1px, transparent 1px); background-size: 36px 36px; }
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } *,*::before,*::after { animation-duration: .01ms !important; transition-duration: .01ms !important; } }
+
+/* Coverflow gallery (components/ui/coverflow-gallery.tsx): 16:9 slides that scale with the screen. */
+.coverflow-gallery { width: 100%; padding-block: 24px; min-height: calc(min(78vw, 340px) * 0.5625 + 48px); }
+.coverflow-gallery .swiper-slide { width: min(78vw, 340px); aspect-ratio: 16 / 9; border-radius: 1rem; box-shadow: var(--shadow-card); }
+@media (min-width: 640px) { .coverflow-gallery { min-height: calc(460px * 0.5625 + 48px); } .coverflow-gallery .swiper-slide { width: 460px; } }
+@media (min-width: 1024px) { .coverflow-gallery { min-height: calc(560px * 0.5625 + 48px); } .coverflow-gallery .swiper-slide { width: 560px; } }
+.coverflow-gallery .swiper-slide-shadow-left, .coverflow-gallery .swiper-slide-shadow-right { border-radius: 1rem; }
+
+/* Scroll reveal (components/ScrollReveal.tsx). Hidden only once JS has tagged an off-screen element. */
+[data-reveal="pending"] { opacity: 0; transform: translateY(16px); }
+[data-reveal="in"] { opacity: 1; transform: none; transition: opacity 600ms ease-out var(--reveal-delay, 0ms), transform 700ms cubic-bezier(0.22, 1, 0.36, 1) var(--reveal-delay, 0ms); }
+@media (prefers-reduced-motion: reduce), print { [data-reveal] { opacity: 1 !important; transform: none !important; transition: none !important; } }

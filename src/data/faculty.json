@@ -1,0 +1,1222 @@
+{
+ "balachandra": {
+  "id": "balachandra",
+  "name": "Dr. Balachandra B.V.",
+  "details": [
+   "MD Pediatrics, Diploma in Allergy Asthma.",
+   "Director of DAACI.",
+   "Consultant Allergist in Manipal Hospital and Chirayu Multi-Specialty Clinic",
+   "Gold Medallist DAA (CMC Vellore).",
+   "Speaker at National Allergy Forums."
+  ],
+  "photo": "balachandra.jpg",
+  "designation": "Director, MedTrain"
+ },
+ "vedanthan": {
+  "id": "vedanthan",
+  "name": "Dr. P.K. Vedanthan",
+  "details": [
+   "Dr. P K Vedanthan",
+   "Co-Director, MedTrain.",
+   "MD Paediatrics, Fellowship in Allergy, Asthma & Immunology, University Of Colorado",
+   "Founder and Chairman of International Asthma Services (IAS) and the Vedanthan Charities.",
+   "Co-director of the DAA program at CMC Vellore, and the DPAA Program at Gangaram Hospital and Research Centre, Delhi."
+  ],
+  "photo": "vedanthan.jpg",
+  "designation": "Co-director, AASC"
+ },
+ "gayatri": {
+  "id": "gayatri",
+  "name": "Dr. Gayatri S Pandit",
+  "details": [
+   "Dr. Gayatri S Pandit",
+   "Academic Director Academic Director - (All Allergy & Asthma Courses)",
+   "DLO from St John's Medical College, Bangalore. (Gold Medalist)",
+   "Diploma in Allergy and Asthma, Christian Medical College, Vellore.",
+   "President of the Allergy Asthma Network of India (AANI) - DAA Alumni Body.",
+   "EB member of AOI, Bangalore branch and a member of ICAAI, IAA, EAACI..",
+   "Consultant ENT and Allerygy Specialist at Samarth ENT and Allergy Center Banglore and Manipal Hospital Banglore."
+  ],
+  "photo": "gayathri-pandit.jpg"
+ },
+ "jagdish": {
+  "id": "jagdish",
+  "name": "Dr. Jagdish Chinnappa",
+  "details": [
+   "MD Pediatrics.",
+   "Director - MedTrain.",
+   "Cluster Head of Pediatrics at the Manipal Hospital group, Bangalore region.",
+   "President- Respiratory chapter Indian Academy of Pediatrics.",
+   "Consultant- Child Center Bangalore."
+  ],
+  "photo": "jagdish.jpg",
+  "designation": "Director, MedTrain"
+ },
+ "sowmya": {
+  "id": "sowmya",
+  "name": "Dr. Sowmya Nagarajan",
+  "details": [
+   "MBBS, DCH",
+   "Fellowship in Paediatric Allergy and Immunology,(National University Hospital, Singapore).",
+   "Diploma in Asthma and Allergy, CMC, Vellore.",
+   "Certificate of Excellence in Allergy (EAACI).",
+   "Fellow of the American Academy of Allergy, Asthma & Immunology (FAAAAI).",
+   "Diplomate in Methodology of Systematic Reviews and Meta-analysis | John Hopkins USA.",
+   "Consultant Pediatrician, Allergist & Immunologist | Sanjeevini Specialist Clinic & Motherhood Hospitals, Bengaluru.",
+   "Secretary | IAP Allergy & Applied Immunology (2026-2027)"
+  ],
+  "photo": "sowmya-nagarajan.jpg"
+ },
+ "nandana": {
+  "id": "nandana",
+  "name": "Dr. Nandana Bala",
+  "details": [
+   "Course Director",
+   "MRCPCH ( UK), CCT Paediatrics (London).",
+   "PG Certificate Allergy (Imperial College, London)",
+   "Consultant Paediatrician and Allergy Asthma Specialist"
+  ],
+  "photo": "nandana-bala.jpg"
+ },
+ "suneelanayak": {
+  "id": "suneelanayak",
+  "name": "Dr. Suneela Nayak",
+  "details": [
+   "Course Director",
+   "MBBS, MRCPCH, FRCPCH, CCST (UK).",
+   "Degree Module in Allergy Warwick University (UK)",
+   "Postgraduate certificate in Pediatric Nutrition (Boston) 2019."
+  ],
+  "photo": "dr-suneela-nayak.jpg"
+ },
+ "kirankrishnamurthy": {
+  "id": "kirankrishnamurthy",
+  "name": "Dr. Kiran Krishnamurthy",
+  "details": [
+   "MBBS, MRCP (UK).",
+   "DAA - CMC Vellore (Silver Medallist).",
+   "FDM - Royal Liverpool Academy.",
+   "Consultant Pulmonologist | Rangadore Memorial Hospital Bangalore.",
+   "Joint Secretary - Karnataka Pulmonologists Association."
+  ],
+  "photo": "dr-kiran-krishnamurthy.jpg"
+ },
+ "shrutimanjunath": {
+  "id": "shrutimanjunath",
+  "name": "Dr. Shruti Manjunath",
+  "details": [
+   "MBBS, MS ENT, AASC, FAAP",
+   "Consultant ENT Surgeon and Allergy Specialist"
+  ],
+  "photo": "dr-shruti.jpg"
+ },
+ "spurthireddychitta": {
+  "id": "spurthireddychitta",
+  "name": "Dr. Spurthi Reddy Chitta",
+  "details": [
+   "Course Director",
+   "MBBS, MD(USA), FAAP (USA).",
+   "Diplomate of American Board of Pediatrics.",
+   "Fellow Allergy and Asthma(Singapore)",
+   "European Academy of Allergy and Clinical Immunology (EAACI) Exam Certified",
+   "Consultant Allergy and Asthma, Rainbow Children's Hospitals, Hyderabad."
+  ],
+  "photo": "dr-spurthi.jpg"
+ },
+ "vijayaknight": {
+  "id": "vijayaknight",
+  "name": "Dr. Vijaya Knight",
+  "details": [
+   "Dr. Vijaya Knight, MD",
+   "MBBS,PhD, (D) ABMLI. MBBS from Mysore Medical College, University of Mysore, India.",
+   "Neuromicrobiology and Immunology, National Institues for Mental Health and Neurosciences, India.",
+   "PhD in Immunology from Melbourne University, Australia.",
+   "Headed the Advanced Diagnostic Immunology and Flow Cytometry laboratories at National Jewish Health from 2008-2018 and was Assoc."
+  ],
+  "photo": "dr-vijaya-knight.jpg"
+ },
+ "karlaelizabethadams": {
+  "id": "karlaelizabethadams",
+  "name": "Dr. Karla Elizabeth Adams",
+  "details": [
+   "Doctor of Medicine.",
+   "Uniformed Services University, Bethesda, MD Bachelor of Arts, Biology with minor in Spanish Literature, Cornell University, Ithaca, NY.",
+   "Program Director, Allergy and Immunology Fellowship, San Antonio Uniformed Services Health Education Consortium, San Antonio, TX."
+  ],
+  "photo": "dr-karla-adam.jpg"
+ },
+ "ushabalachandra": {
+  "id": "ushabalachandra",
+  "name": "Dr. Usha Balachandra",
+  "details": [
+   "Dr. Shambo Samrat Samajdar",
+   "MBBS, MD, DM( clinical pharmacology) PG Dip in ENdo & Diabetes (RCP,Uk)Fellowship in Respiratory and Critica care(WBUHS) Fellowship in Allergy-Asthma Specialist Course (International Asthma Services & AAAAI)",
+   "Certified in Diabeted Management (Royal College of Physicians, UK), Fellowship in integrated diabeted & Endocrine Certificate Course (Newcastle University)",
+   "Clinical Pharmacologist, School of Tropical Medicine,Kolakata; Consultantat Diabetes & Allergy Asthma Therapeutics Clinic, Kolkata & Consultant at AATC, Kolkata."
+  ],
+  "photo": "dr-usha.jpg"
+ },
+ "arathikarat": {
+  "id": "arathikarat",
+  "name": "Dr. Arathi Karat",
+  "details": [
+   "Consultant ENT Specialist & Allergy Expert.",
+   "MBBS, MS ENT, DNB",
+   "AASC-Allergy Asthma Specialist Course"
+  ],
+  "photo": "dr-arathi-karat.jpg"
+ },
+ "vinaymehta": {
+  "id": "vinaymehta",
+  "name": "Dr. Vinay Mehta",
+  "details": [
+   "Internal medicine at the Mayo Clinic.",
+   "Fellowship in Allergy/Immunology at Creighton University.",
+   "Board-certified Allergist with Allergy, Asthma & Immunology Associates (Lincoln, Nebraska, USA).",
+   "Fellow of the American College of Allergy, Asthma & Immunology (ACAAI) and the American Academy of Allergy, Asthma, and Immunology (AAAAI).",
+   "Adjunct faculty member at Christian Medical College (Vellore, India)."
+  ],
+  "photo": "vinay-mehta.jpg"
+ },
+ "sanjaybafna": {
+  "id": "sanjaybafna",
+  "name": "Dr. Sanjay Bafna",
+  "details": [
+   "MD Paediatrics, European Diploma in Paed Respiratory medicine.",
+   "Diploma in Paediatric Sleep Medicine.",
+   "Senior Consultant - Paediatrics & Paed, Critical Care Jehangir Apollo Hospital, Pune.",
+   "Chief Paediatric Pulmonologist, Bharati Vidyapeeth Medical College & Hospital, Pune."
+  ],
+  "photo": "f92378-dr-sanjay-bafna.jpg"
+ },
+ "jacobnabraham": {
+  "id": "jacobnabraham",
+  "name": "Dr. Jacob N Abraham",
+  "details": [
+   "Ph. D in Aerobiology and has carried out research in this field for over 36 years.",
+   "Published 16 research papers and presented 25 papers in various National and International Conferences.",
+   "Life Member of the Indian Aerobiological society and the Indian Academy of Allergy."
+  ],
+  "photo": "dr-jacob-n-abraham.jpg"
+ },
+ "narayanprasadmodi": {
+  "id": "narayanprasadmodi",
+  "name": "Dr. Narayan Prasad Modi",
+  "details": [
+   "Prof. & Head, Dept. Of Pediatrics, HMCH, BBSR.",
+   "MD, DAA (Vellore).",
+   "Central Zone Co-ordinator, OPPE Workshop.",
+   "EB Member, IAP Respiratory Chapter.",
+   "EB Member, IAP Allergy and Applied Immunology Chapter."
+  ],
+  "photo": "narayan-prasad-modi.jpg"
+ },
+ "siteshroy": {
+  "id": "siteshroy",
+  "name": "Dr. Sitesh Roy",
+  "details": [
+   "MBBS, MCPS, MD - Paediatrics, Allergy Immunology.",
+   "Allergist-Immunologist - Certified by the American Board of Allergy and Immunology Conjoint",
+   "Board of the AAP and ABIM.",
+   "Dr. Roy Health Solutions, Bandra, Mumbai-India."
+  ],
+  "photo": "dr-sitesh-roy.jpg"
+ },
+ "sundeepsalvi": {
+  "id": "sundeepsalvi",
+  "name": "Dr. Sundeep Salvi",
+  "details": [
+   "MD, DTCD, DNB Respiratory Medicine, Ph.D Clinical Medicine.",
+   "Founder and Director, Chest Research Foundation, 2002-2019.",
+   "Member, Board of Directors, GOLD (Global Initiative for COPD).",
+   "International Advisory Board Member, Lancet Respiratory Medicine.",
+   "Member, Steering Committee on Air Pollution and Health, Ministry of Health and Family Welfare, Govt of India."
+  ],
+  "photo": "b07d03-dr-sundeep-salvi.jpg"
+ },
+ "nagabhushana": {
+  "id": "nagabhushana",
+  "name": "Dr. Nagabhushana",
+  "details": [
+   "Dr.Nagbhushan",
+   "Visiting Professor – Rainbow Children Hospital MBBS, DCH, DNB (Ped).",
+   "Master Trainer - Asthma Training Module, RTI - GEM.",
+   "Contributor - IAP Text Book of Peadiatrics, IAP Text Book of Infectious Disease, Text Book of Peadiatric Pulmonology, Etc.",
+   "Past - President IAP Respiratory Chapter Karnataka."
+  ],
+  "photo": "db355e-dr-nagbhushan.jpg"
+ },
+ "mandakolathurrmurali": {
+  "id": "mandakolathurrmurali",
+  "name": "Dr. Mandakolathur R. Murali",
+  "details": [
+   "Allergist and Immunologist.",
+   "Assistant professor of Medicine at Harvard Medical School.",
+   "Director of the Clinical Immunology Laboratory in the Massachusetts General Hospital."
+  ],
+  "photo": "mandakolathur-r-murali.jpg"
+ },
+ "asramaswamy": {
+  "id": "asramaswamy",
+  "name": "Dr. A S Ramaswamy",
+  "details": [
+   "Dr. A S Ramaswamy",
+   "MD Pathology (JJM Medical College), MBBS (MS Ramaiah Medical College).",
+   "Awarded the First Rank in MD Pathology examination conducted by the Rajiv Gandhi University of Health Sciences, Karnataka.",
+   "PES Institute of Medical Sciences and Research / Professor and Head of Department Pathology."
+  ],
+  "photo": "dr-ramaswamy.jpg"
+ },
+ "hugovanbever": {
+  "id": "hugovanbever",
+  "name": "Dr. Hugo Van Bever",
+  "details": [
+   "MD, PhD, Professor in Dept of (Paediatrics).",
+   "Department of Paediatrics.",
+   "National University Hospital / National University of Singapore / NUHS / Yong Loo Lin School of Medicine, National University of Singapore.",
+   "President of APAPARI.",
+   "Committee member of the Immunotherapy working group of WAO.",
+   "Associate Editor of the European Respiratory Journal (1993-1998).",
+   "Published over 350 papers in national and International Journals."
+  ],
+  "photo": "dr-hugo-van-bever.jpg"
+ },
+ "maheshpa": {
+  "id": "maheshpa",
+  "name": "Dr. Mahesh PA",
+  "details": [
+   "Pulmonologist and Allergist.",
+   "Professor, Pulmonary Medicine, JSSMC, JSSAHER.",
+   "Publications: 138; International - 110, National - 28, Books - 3, Book chapters - 8, h-index - 44 and i10-index - 77, Total Citations - 27,671.",
+   "Serving on 9 committees of the American Academy of Allergy Asthma and Immunology, USA."
+  ],
+  "photo": "mahesh-pa.jpg"
+ },
+ "shishirmodak": {
+  "id": "shishirmodak",
+  "name": "Dr. Shishir Modak",
+  "details": [
+   "M.D, D.C.H, Panel consultant,",
+   "Deenanath Mangeshkar Hospital, Pune.",
+   "Organizing Chairperson, Respicon – 2011 Past President – IAP Pune"
+  ],
+  "photo": "dr-shishir-modak.jpg"
+ },
+ "neerajgupta": {
+  "id": "neerajgupta",
+  "name": "Dr. Neeraj Gupta",
+  "details": [
+   "DCH, DNB, IDPCCM, DAA Pediatric Intensivist& Allergy Specialist.",
+   "Consultant Department of Pediatric Emergency, Critical Care.",
+   "Pulmonology and Allergic Disorders, Department of Pediatrics Institute of Child Health Sir Ganga Ram Hospital, Rajinder Nagar.",
+   "Director of the DPAA program in Sir Gangaram Hospital and Research Center - Delhi."
+  ],
+  "photo": "neeraj-gupta.jpg"
+ },
+ "shambosamratsamajdar": {
+  "id": "shambosamratsamajdar",
+  "name": "Dr. Shambo Samrat Samajdar",
+  "details": [
+   "MBBS, MD, DM (Clinical Pharmacology) PG Dip in Endo & Diabetes (RCP, UK), Fellowship in",
+   "Fellowship in Respiratory and Critica Care (WBUHS).",
+   "Fellowship in Allergy-Asthma Specialist Course (International Asthma Services & AAAAI).",
+   "Certified in Diabetes Management (Royal College of Physicians, UK), Fellowship in Integrated Diabetes & Endocrine Certificate Course (Newcastle University).",
+   "Clinical Pharmacologist, School of Tropical Medicine, Kolkata; Consultant at Diabetes & Allergy Asthma Therapeutics Clinic, Kolkata & Consultant at AATC, Kolkata."
+  ],
+  "photo": "dr-shambo-samrat-samajdar.jpg"
+ },
+ "srikantajt": {
+  "id": "srikantajt",
+  "name": "Dr. Srikanta J T",
+  "details": [
+   "MBBS, DCH, DNB (Paediatrics)",
+   "Clinical fellow in Paediatrics pulmonology and sleep medicine( singapore), Interventional bronchology,Ancona, Italy/Apollo Specialty hospital, Bangalore."
+  ],
+  "photo": "dr-srikanta-j-t-01.jpg"
+ },
+ "giriyannagowda": {
+  "id": "giriyannagowda",
+  "name": "Dr. Giriyanna Gowda",
+  "details": [
+   "Associate professor and Head of Allergy Center, Kempegowda Institute of Medical Sciences (KIMS) Hospital and research center, Bangalore.",
+   "He is DAA graduate – 2013 batch",
+   "Awarded young scientist award at 46th National Conference of Indian College of Allergy Asthma and Immunology at Varanasi in December 2012.",
+   "The Principal Investigator of silk asthma project in Bangalore rural district.",
+   "He is actively involved in training and guiding undergraduate and post graduate students in research.",
+   "Member of various professional bodies in the field of allergy (World Allergy Organization, Indian Academy of Allergy, Indian College of Allergy, Asthma and Immunology, Allergy Asthma Network of India and others)"
+  ],
+  "photo": "dr-giriyanna-gowda.jpg"
+ },
+ "andrewdavidbraganza": {
+  "id": "andrewdavidbraganza",
+  "name": "Dr. Andrew David Braganza",
+  "details": [
+   "MBBS - CMC Vellore, MS - Ophthalmology (PGI - Chandigarh).",
+   "Professor, Department of Ophthalmology, Christian Medical College, Vellore.",
+   "Teacher for Undergraduate and Post Graduate Ophthalmology Students."
+  ],
+  "photo": "andrew-david-braganza.jpg"
+ },
+ "nsuresh": {
+  "id": "nsuresh",
+  "name": "Dr. N Suresh",
+  "details": [
+   "MBBS, DNB (Paediatrics), MRCPCH(UK), MNAMS, PGDAP, Ph.D. (Ped Pulmonology), Diploma in Allergy & Asthma (USA).",
+   "Senior Consultant Paediatrician, Pulmonologist & Allergy Specialist, Rainbow Children's Hospital, Chennai, India.",
+   "35 research papers published.",
+   "Awarded the prestigious PGDAP by Kerala University.",
+   "Reviewer for 10 Paediatric Medical Journals."
+  ],
+  "photo": "n-suresh.jpg"
+ },
+ "ksraghuchanakya": {
+  "id": "ksraghuchanakya",
+  "name": "Dr. K S Raghu Chanakya",
+  "details": [
+   "Consultant ENT Surgeon, Allergy specialist",
+   "Certified Vestibular specialist",
+   "Associate Professor - GITAM Institute of Medical Sciences and research (GIMSR), VISAKHAPATNAM",
+   "Reviewer at Indian Journal of Otolaryngology and Head & Neck Surgery"
+  ],
+  "photo": "dr-k-s-raghu-chanakya.jpg"
+ },
+ "amrutsindhuvsanikop": {
+  "id": "amrutsindhuvsanikop",
+  "name": "Dr. Amrut Sindhu V Sanikop",
+  "details": [
+   "Dr. Amrutha Sindhu V Sanikop",
+   "Consultant Pulmonologist & Allergist"
+  ],
+  "photo": "dr-amrutha-sindhu.jpg"
+ },
+ "kalappanavar": {
+  "id": "kalappanavar",
+  "name": "Dr. N K Kalappanavar",
+  "designation": "Program Director and Faculty",
+  "details": [
+   "MD, DNB, MNAMS, FIPP, FIAP, FRCHPCH (UK)",
+   "Former Medical Director",
+   "Consultant pediatric Pulmonologist",
+   "S. S. Institute of Medical sciences & Research centre"
+  ],
+  "photo": "dr-n-k-kalappanavar.jpg"
+ },
+ "satish": {
+  "id": "satish",
+  "name": "Dr. Satish Rao",
+  "designation": "Program Director and Faculty",
+  "details": [
+   "Interim Chief Medical Officer Birmingham Women’s and Children’s Hospital",
+   "Consultant Respiratory pediatrician"
+  ],
+  "photo": "dr-satish-rao.jpg"
+ },
+ "lalwani": {
+  "id": "lalwani",
+  "name": "Dr. Sanjay Lalwani",
+  "designation": "Program Director",
+  "details": [
+   "Professor and HOD of pediatrics,",
+   "The Dean of Faculty of Medicine,",
+   "Vice-Principal and The Medical Director of Bharati Vidyapeeth Medical College, Pune."
+  ],
+  "photo": "dr-sanjay-lalwani.jpg"
+ },
+ "sbalasubramanium": {
+  "id": "sbalasubramanium",
+  "name": "Dr. S Balasubramanium",
+  "details": [
+   "Kanchi Kamakoti Childs Trust Hospital",
+   "Department of pediatrics."
+  ],
+  "photo": "dr-balasubramaniyam.jpg"
+ },
+ "josephlmathew": {
+  "id": "josephlmathew",
+  "name": "Dr. Joseph L Mathew",
+  "details": [
+   "MD, PhD, FAMS",
+   "Professor (pediatric Pulmonology) & Head",
+   "pediatric Pulmonology Division Advanced pediatrics Centre PGIMER Chandigarh."
+  ],
+  "photo": "dr-joseph-l-mathew-01.jpg"
+ },
+ "sgkasi": {
+  "id": "sgkasi",
+  "name": "Dr. S G Kasi",
+  "photo": "dr-s-g-kasi.jpg"
+ },
+ "nagabhushan": {
+  "id": "nagabhushan",
+  "name": "Dr. S Nagabhushan",
+  "details": [
+   "Visiting Professor – Rainbow Children Hospital MBBS, DCH, DNB (ped)",
+   "Master Trainer - Asthma Training Module, RTI - GEM",
+   "Contributor - IAP Text Book of Peadiatrics, IAP Text Book of Infectious Disease, Text Book of Peadiatric Pulmonology, Etc",
+   "Past - President IAP Respiratory Chapter Karnataka."
+  ],
+  "photo": "dr-nagbhushan.jpg"
+ },
+ "mahesh": {
+  "id": "mahesh",
+  "name": "Dr. Mahesh Babu",
+  "details": [
+   "MBBS (India)",
+   "FCPS (Child Health)",
+   "DNB (peds), MD (peds)",
+   "MRCP (UK).",
+   "Clin.Fellow in peds Intensive Care (Glasgow, UK)."
+  ],
+  "photo": "mahesh-babu.jpg"
+ },
+ "barnali": {
+  "id": "barnali",
+  "name": "Dr. Barnali Bhattacharya",
+  "details": [
+   "MD, DCH, FRSTM&H, DPSM",
+   "Consultant pediatrician Children's Clinic & Healing Touch Multispeciality Clinic, Pune",
+   "Consultant, Asthma Care, Children's Clinic, Pune."
+  ],
+  "photo": "dr-barnali-bhattacharya.jpg"
+ },
+ "tanu": {
+  "id": "tanu",
+  "name": "Dr. Tanu Singhal",
+  "details": [
+   "MD, MSc, Consultant pediatrics and Infectious Disease.",
+   "Kokilaben Dhirubhai Ambani hospital and Medical Research centre Mumbai."
+  ],
+  "photo": "dr-tanu-singhal.jpg"
+ },
+ "dhirengupta": {
+  "id": "dhirengupta",
+  "name": "Dr. Dhiren Gupta",
+  "details": [
+   "Deputy Director PICU",
+   "pediatric Pulmonology, Allergy, Sir Ganga Ram Hospital New Delhi."
+  ],
+  "photo": "dr-dhiren-gupta.jpg"
+ },
+ "pallabchatterjee": {
+  "id": "pallabchatterjee",
+  "name": "Dr. Pallab Chatterjee",
+  "details": [
+   "DCH, MD (ped), DNB (ped), FIAP",
+   "Diploma in pediatric Sleep Medicine",
+   "European Diplomate of pediatric Pulmonology",
+   "Consultant pediatrician, Apollo Multi-speciality Hospital",
+   "Manipal Hospital and Fortis Hospital, Kolkata."
+  ],
+  "photo": "dr-pallab-chatterjee.jpg"
+ },
+ "anupamjaiswal": {
+  "id": "anupamjaiswal",
+  "name": "Dr. Anupam Jaiswal",
+  "details": [
+   "MBBS,, MD, MRCPCH (LONDON), EPIC DIPLOMA (EUROPEAN BOARD-CERTIFIED PAEDIATRIC INTENSIVIST),",
+   "FELLOWSHIP IN PICU,CICU & ICU RETRIEVA",
+   "(GREAT ORMOND STREET HOSPITAL FOR CHILDREN & EVELINA CHILDREN’S HOSPITAL, LONDON).PEDIATRIC EMERGENCY FELLOWSHIP - STEP (INDIA)"
+  ],
+  "photo": "dr-anupam-jaiswal.jpg"
+ },
+ "amarshah": {
+  "id": "amarshah",
+  "name": "Dr. Amar Shah",
+  "details": [
+   "F.R.C.S. (pediatric Surgery, England)",
+   "Neonatal and pediatric Surgeon Specialist pediatric Endoscopic Surgery and Urology",
+   "Director:of Amardeep Multispeciality Children Hospital & Research Centre Ahmedabad."
+  ],
+  "photo": "dr-amar-shah.jpg"
+ },
+ "indukhosla": {
+  "id": "indukhosla",
+  "name": "Dr. Indu Khosla",
+  "details": [
+   "Consultant pediatrician and Pulmonologist",
+   "European Diplomate in pediatric Respiratory Medicine International Sleep Expert (World Sleep Society)",
+   "Diploma in pediatric Sleep Medicine(GCI) University of Colorado",
+   "MD, DCH, RCPCH Fellow in ped. Pulmonology."
+  ],
+  "photo": "dr-indu-khosla.jpg"
+ },
+ "rashigupta": {
+  "id": "rashigupta",
+  "name": "Dr. Rashi Gupta",
+  "details": [
+   "Assistance Professor in JMC Wardha"
+  ],
+  "photo": "dr-rashi-gupta.jpg"
+ },
+ "sridharkalyanasundaram": {
+  "id": "sridharkalyanasundaram",
+  "name": "Dr. Sridhar Kalyanasundaram",
+  "details": [
+   "MD, DM,FRCPCH(UK).",
+   "Course Director.",
+   "Senior Consultant Neonatologist UAE since 2012",
+   "Senior Consultant in UK & UAE.",
+   "Trained at JIPMER Pondicherry and PGIMER, Chandigarh. Senior Consultant in UK & UAE."
+  ],
+  "photo": "dr-sridhar-kalyanasundaram.jpg"
+ },
+ "kiranmore": {
+  "id": "kiranmore",
+  "name": "Dr. Kiran More",
+  "details": [
+   "MD, FRACP",
+   "Senior Consultant Pediatrician.",
+   "Pediatric Intensive Care Specialist.",
+   "Child hospital Nagpur,Maharashtra."
+  ],
+  "photo": "dr-km.jpg"
+ },
+ "abdulrazak": {
+  "id": "abdulrazak",
+  "name": "Dr. Abdul Razak",
+  "details": [
+   "MD, FRCPCH (UK)",
+   "Doctoral student, Monash University.",
+   "Newborn Fellow, Monash Newborn.",
+   "Monash Children's Hospital Melbourne, Australia."
+  ],
+  "photo": "dr-abdul-razak.jpg"
+ },
+ "deepashivnani": {
+  "id": "deepashivnani",
+  "name": "Dr. Deepa shivnani",
+  "details": [
+   "MBBS, DNB ENT,MNAMS,DPSM Fellowship in pediatric Otolaryngology(Manipal Hospital,India)",
+   "Instructor, Arkansas Chidren's Hospital,Little Rock,Arkansas, U.S.A"
+  ],
+  "photo": "dr-deepa-shivnani.jpg"
+ },
+ "prasadnagakumar": {
+  "id": "prasadnagakumar",
+  "name": "Dr. Prasad Nagakumar",
+  "details": [
+   "Dr.Prasad Nagakumar",
+   "Paediatric Respiratory Consultant Birmingham Children's Hospital",
+   "Associate Professor",
+   "School of Inflammation and ageing university of Birmingham"
+  ],
+  "photo": "dr-prasad-nagakumar.jpg"
+ },
+ "kirankumar": {
+  "id": "kirankumar",
+  "name": "Dr. Kiran Kumar",
+  "details": [
+   "MD, DNB, DM, FRACP, PhD",
+   "Senior Neonatologist",
+   "Nepean Hospital and University of Sydney, Australia"
+  ],
+  "photo": "dr-kiran-kumar.jpg"
+ },
+ "ilinkinimi": {
+  "id": "ilinkinimi",
+  "name": "Dr. Ilin Kinimi",
+  "details": [
+   "Consultant, pediatric Pulmonologist Manipal Hospitals, Bangalore",
+   "Fellowship pediatric Pulmonology & Sleep Medicine.",
+   "(NUH SINGAPORE ) Diplomate ERS - pediatric Respiratory Medicine."
+  ],
+  "photo": "dr-ilin-kinimi.jpg"
+ },
+ "anilkumarsapare": {
+  "id": "anilkumarsapare",
+  "name": "Dr. Anilkumar Sapare",
+  "details": [
+   "MBBS, DCH, DNB, MRCPCH",
+   "CCST (UK) Consultant in pediatric Pulmonology and PICU at Narayana Health City Bengaluru."
+  ],
+  "photo": "dr-anilkumar-sapare.jpg"
+ },
+ "antonyterrance": {
+  "id": "antonyterrance",
+  "name": "Dr. Antony Terrance",
+  "details": [
+   "Consultant pediatric Pulmonologist, GKNM Hospital Coimbatore."
+  ],
+  "photo": "dr-antony-terrance.jpg"
+ },
+ "sagarbhattad": {
+  "id": "sagarbhattad",
+  "name": "Dr. Sagar Bhattad",
+  "details": [
+   "Consultant, Pediatric Immunology, Rheumatology & Bone Marrow Transplant",
+   "MD, DM (Pediatric Clinical Immunology and Rheumatology).",
+   "Associate Fellow - FAMS, EMBT Diploma, Fellowship in BMT.",
+   "First DM in the field of Pediatric Immunology and Rheumatology in India.",
+   "Authored Book - \"Primary Immune Deficiencies Made Simple\".",
+   "Publications: 81 in National and International Journals",
+   "Diagnosed more than 550 patients with primary immune deficiencies and involved in 60+ bone marrow transplants in PIDs."
+  ],
+  "photo": "dr-sagar-bhattad.jpg"
+ },
+ "sushanthmane": {
+  "id": "sushanthmane",
+  "name": "Dr. Sushanth Mane",
+  "details": [
+   "Associate Professor & Nodal officer of the State pediatric Center of Excellence for Tuberculosis Grant Govt. Medical College",
+   "Sir JJ Group of Hospitals, Mumbai",
+   "Subject Expert, NTEP, India",
+   "Member - Child & Adolescent TB Working Group, WHO"
+  ],
+  "photo": "dr-sushant-mane.jpg"
+ },
+ "pawankalyan": {
+  "id": "pawankalyan",
+  "name": "Dr. Pawan Kalyan",
+  "details": [
+   "Prof pediatrics",
+   "Dr PSIMS & RF, Chinaoutapally Andhra pradesh."
+  ],
+  "photo": "dr-pawan-kalyan.jpg"
+ },
+ "vikramsakleshpur": {
+  "id": "vikramsakleshpur",
+  "name": "Dr. Vikram Sakleshpur",
+  "details": [
+   "Professor and Head of pediatrics",
+   "Subbaiah Institute of Medical Sciences Shivamogga."
+  ],
+  "photo": "dr-vikram.jpg"
+ },
+ "suprajachandrashekhar": {
+  "id": "suprajachandrashekhar",
+  "name": "Dr. Supraja Chandrashekhar",
+  "details": [
+   "MBBS, MRCPCH (UK)",
+   "Fellowship ped Crit Care (IAP) Consultant pediatric Intensivist.",
+   "Director of pediatric Services, DHEE Hospitals Bengaluru."
+  ],
+  "photo": "dr-supraja-chandrasekar.jpg"
+ },
+ "somusivabalan": {
+  "id": "somusivabalan",
+  "name": "Dr. Somu Sivabalan",
+  "details": [
+   "MBBS, MD (Ped) DNB (Ped), MNAMS, FCCP (USA), FIAP, FAPSR, FRCP (Edin)",
+   "Consultant Pediatrician & Pulmonologist",
+   "Rainbow Children's Hospital, Anna Nagar, Chennai"
+  ],
+  "photo": "dr-somu-sivbalan.jpg"
+ },
+ "nehamohanrao": {
+  "id": "nehamohanrao",
+  "name": "Dr. Neha Mohan Rao",
+  "details": [
+   "Course Co-ordinator",
+   "MBBS, DCH, DNB, AASC, Fellowship in pediatric Pulmonology",
+   "Consultant pediatric Pulmonologist."
+  ],
+  "photo": "dr-neha-mohan-rao.jpg"
+ },
+ "aanchalkhemani": {
+  "id": "aanchalkhemani",
+  "name": "Dr. Aanchal Khemani",
+  "details": [
+   "Course Co-ordinator",
+   "MBBS, DCH, DNB (pediatrics)",
+   "Fellowship in pediatric Pulmonology(NHS)",
+   "European Diploma in pediatric Respiratory Medicine",
+   "Diploma in pediatric Sleep Medicine (ongoing)."
+  ],
+  "photo": "dr-aanchal-khemani.jpg"
+ },
+ "siddhantlalwani": {
+  "id": "siddhantlalwani",
+  "name": "Dr. Siddhant Lalwani",
+  "details": [
+   "Course Co-ordinator",
+   "MD (pediatrics)",
+   "Fellowship in pediatric Pulmonolgy (UK)",
+   "European Respiratory Diplomat",
+   "pediatric Allergy, Asthma & Sleep Specialist."
+  ],
+  "photo": "dr-siddhant-lalwani.jpg"
+ },
+ "kaustubhmohite": {
+  "id": "kaustubhmohite",
+  "name": "Dr. Kaustubh Mohite",
+  "details": [
+   "Course Co-ordinator",
+   "MBBS, MD pediatrics",
+   "ERS Diplomat",
+   "Fellow in pediatric Pulmonology",
+   "Exec MBA in Hospital Management (IIM-C)."
+  ],
+  "photo": "dr-kaustubh-mohite.jpg"
+ },
+ "balajiswaminathan": {
+  "id": "balajiswaminathan",
+  "name": "Dr. Balaji Swaminathan",
+  "details": [
+   "Dr. S G Kasi",
+   "Consultant pediatrician, Bengaluru",
+   "Past President IAP Bengaluru",
+   "Past Vice President IAP Natl. Resp Chapter",
+   "ACVIP/IAPCOI: Member: 2011-2012",
+   "Convener: 2020-2021, Advisor: 2022-2023."
+  ],
+  "photo": "dr-balaji-swaminathan.jpg"
+ },
+ "tharindisuriapperuma": {
+  "id": "tharindisuriapperuma",
+  "name": "Dr. Tharindi Suriapperuma",
+  "details": [
+   "Consultant Pediatrician",
+   "Senior Lecturer in Pediatrics",
+   "Faculty of Medicine, University of Kelaniya, Sri Lanka"
+  ],
+  "photo": "dr-tharindi-suriapperuma.jpg"
+ },
+ "kasyapivv": {
+  "id": "kasyapivv",
+  "name": "Dr. Kasyapi V V",
+  "details": [
+   "Managing Director & Consultant Allergist",
+   "VN Allergy & Asthma Research"
+  ],
+  "photo": "dr-kasyapi-v-v.jpg"
+ },
+ "karthiknagesh": {
+  "id": "karthiknagesh",
+  "name": "Dr. Karthik Nagesh",
+  "details": [
+   "Course Director & Faculty",
+   "MBBS (MAMC, Delhi), MD (PGIMER, Chandigarh), FRCPCH(UK), FNNF, FIAP, MPMCx (IIM, Ahmedabad).",
+   "Neonatal Intensive Care Fellowship, UK.",
+   "Program Director- Pediatric Centres of Excellence, Aster Hospitals Karnataka.",
+   "Lead Consultant- Neonatal Pediatrics.",
+   "Former Chairman and HOD of Neonatology and NICUs, Manipal Hospitals."
+  ],
+  "photo": "dr-karthik-nagesh.jpg"
+ },
+ "asmiyakouser": {
+  "id": "asmiyakouser",
+  "name": "Ms. Asmiya Kouser",
+  "details": [
+   "M.Sc Microbiology from Bangalore University.",
+   "Microbiologist.",
+   "Certification of Phadia 250.",
+   "AAAC from International Asthma Services.",
+   "Lab Technician, Patient Educator and Allergy",
+   "Technician - Allergy Central, Bangalore."
+  ],
+  "photo": "ms-asmiya.jpg"
+ },
+ "nithyashree": {
+  "id": "nithyashree",
+  "name": "Ms. Nithyashree",
+  "details": [
+   "Respiratory Technician - Chirayu Multispeciality Clinic.",
+   "Breathfree Educator - Cipla.",
+   "CORD Certification from CRF Pune."
+  ],
+  "photo": "nithya.jpg"
+ },
+ "soundaryayr": {
+  "id": "soundaryayr",
+  "name": "Ms. Soundarya Y R",
+  "details": [
+   "B.Sc nursing from ESIC college of nursing.",
+   "Registered Nurse.",
+   "Participated in Covid Vaccination Camps.",
+   "Patient Educator and Allergy Technician - Allergy Central, Bangalore."
+  ],
+  "photo": "soundarya.jpg"
+ },
+ "usha": {
+  "id": "usha",
+  "name": "Dr. Usha",
+  "details": [
+   "MBBS, DNB - Ophthalmology",
+   "Opthalmologist / Eye Surgeon",
+   "Vitreoretina Specialist"
+  ],
+  "photo": "dr-usha.jpg"
+ },
+ "akasha": {
+  "id": "akasha",
+  "name": "Mr. Akash A",
+  "details": [
+   "B.Sc Nursing from Venkatesawar Nursing College.",
+   "Registered Nurse.",
+   "Basic Life Support Certification",
+   "AAAC from International Asthma Services",
+   "Patient Educator and Allergy Technician - Allergy Central,Bangalore."
+  ],
+  "photo": "mr-akash.jpg"
+ },
+ "prashanthm": {
+  "id": "prashanthm",
+  "name": "Mr. Prashanth M",
+  "details": [
+   "Respiratory Technician - Chirayu Multispeciality Clinic and Allergy Central - Bangalore.",
+   "Allergy Assistant Certification from CMC Vellore and IAS (International Asthma Services).",
+   "CORD Certification from CRF-Pune and Spirometry Certification from ICS (Indian Chest Society).",
+   "Contributor - Diagram of IgE Immune Mechanism for the Textbook - Allergy and Immunology.",
+   "Jn Contributor to the Research Article by Dr Balachandra B V for eaaci research and training junior members.",
+   "Content Analyst for Courses from Medtrain - AASC, NCEC, FAAP and AAAC."
+  ],
+  "photo": "prasanth.jpg"
+ },
+ "rakeshsahni": {
+  "id": "rakeshsahni",
+  "name": "Dr. Rakesh sahni",
+  "details": [
+   "MD",
+   "Professor of Pediatrics at CUIMC.",
+   "Columbia University Vagelos College of Physicians and Surgeons Medical Director, NICU",
+   "NewYork-Presbyterian Morgan Stanley Children’s Hospital",
+   "New York city."
+  ],
+  "photo": "dr-rakesh-sahani-02.jpg"
+ },
+ "vineetbhandari": {
+  "id": "vineetbhandari",
+  "name": "Dr. Vineet Bhandari",
+  "details": [
+   "MD, DM",
+   "Vice Chair, Faculty Development.",
+   "Department of Pediatricst.",
+   "Professor of Pediatrics, Obstetrics and Gynecology, and Biomedical Sciences."
+  ],
+  "photo": "dr-vineet-bhandari.jpg"
+ },
+ "satishdeopujari": {
+  "id": "satishdeopujari",
+  "name": "Dr. Satish Deopujari",
+  "details": [
+   "MD, FRACP",
+   "Senior Consultant Pediatrician.",
+   "Pediatric intensive care Specialist.",
+   "Child hospital Nagpur,Maharashtra."
+  ],
+  "photo": "dr-satish-deopujari.jpg"
+ },
+ "pradeepsuryawanshi": {
+  "id": "pradeepsuryawanshi",
+  "name": "Dr. Pradeep Suryawanshi",
+  "details": [
+   "MD, DM, FRACP",
+   "Professor and HOD.",
+   "Department of Neonatology,Bharati Vidyapeeth Deemed University, Pune."
+  ],
+  "photo": "dr-pradeep-suryawanshi.jpg"
+ },
+ "srinivasmurki": {
+  "id": "srinivasmurki",
+  "name": "Dr. Srinivas Murki",
+  "details": [
+   "MBBS, MD (Pediatrics), DM (Neonatology)",
+   "Consultant Neonatologist, Ankura Hospital, Hyderabad"
+  ],
+  "photo": "dr-srinivas-murki.jpg"
+ },
+ "jesalsheth": {
+  "id": "jesalsheth",
+  "name": "Dr. Jesal Sheth",
+  "details": [
+   "MD. Peditrics from MPSMC,GGH,Saurastra university, Jamnagar.",
+   "IAP Fellowship of pediatric intensive care, Wadia Children Hospital, Mumbai.",
+   "Cardiac Critical care Training from Narayana Hrudayalaya, Bangalore",
+   "Pediatric Critical Care Medicine Fellowship, The Sick Kids Hospital, University of Toronto, Canada",
+   "Neonatal Intensive Care Fellowship from the sick hospital, University of Toronto, Canada."
+  ],
+  "photo": "dr-jesal-sheth-2.jpg"
+ },
+ "manojmalviya": {
+  "id": "manojmalviya",
+  "name": "Dr. Manoj Malviya",
+  "details": [
+   "MBBS, DCH, MRCP (UK) MRCPCH(UK)",
+   "Fellowship in Neonatology (Canada $ Australia).",
+   "Senior Consultant Neonatologist, Oman."
+  ],
+  "photo": "dr-manoj-malviya.jpg"
+ },
+ "cibasunilraphael": {
+  "id": "cibasunilraphael",
+  "name": "Ms. Ciba Sunil Raphael",
+  "details": [
+   "MBA & MSC in Health care Management from Swiss Business school.",
+   "Certified NRP Instructor/Provider from American Academy of pediatrics",
+   "Certified Trainer from Manipal University",
+   "Certified by Carramar Consultation Australia in Neonatal Intensive Care Course",
+   "B.Sc Nursing from College Of Nursing Indore, Madhya pradesh"
+  ],
+  "photo": "ms-ciba-sunil-raphael-2.jpg"
+ },
+ "durgagadgil": {
+  "id": "durgagadgil",
+  "name": "Dr. Durga Gadgil",
+  "designation": "Clinical Research Consultant",
+  "photo": "dr-durga.jpg"
+ },
+ "jerozeengineer": {
+  "id": "jerozeengineer",
+  "name": "Dr. Jeroze Engineer",
+  "designation": "Clinical Research Consultant",
+  "photo": "dr-jeroze-engineer.jpg"
+ },
+ "muralimohanselvam": {
+  "id": "muralimohanselvam",
+  "name": "Dr. Murali Mohan Selvam",
+  "designation": "Founder and Executive Director, LinQMD",
+  "photo": "dr-murali.jpg"
+ },
+ "pamahesh": {
+  "id": "pamahesh",
+  "name": "Dr. P. A. Mahesh",
+  "details": [
+   "PA, MBBS, DTCD, DNB, FRCP, FCCP.",
+   "Publications: Original articles - 432, International - 399, National -33, Books - 4.",
+   "Listed in the top 2% of all researchers in the world in the last five years by Stanford University, USA."
+  ],
+  "photo": "dr-mahesh-pa-01.jpg"
+ },
+ "amruthadholla": {
+  "id": "amruthadholla",
+  "name": "Dr. Amrutha D Holla",
+  "details": [
+   "Senior Consultant Allergy Asthma and Chest Centre Mysore",
+   "DAA CMC (Gold medalist)"
+  ],
+  "photo": "dr-amrutha-d-hola-new.jpg"
+ },
+ "ankurkumarjindal": {
+  "id": "ankurkumarjindal",
+  "name": "Dr. Ankur Kumar Jindal",
+  "details": [
+   "Senior Consultant, Pediatric Clinical Immunology and Rheumatology at Manipal Hospital, Bangalore.",
+   "MD Pediatrics and DM Pediatric Clinical Immunology and Rheumatology.",
+   "Former Associate Professor of Pediatric Clinical Immunology and Rheumatology, PGIMER, Chandigarh.",
+   "Research Interests: Angioedema, Urticaria, Primary immunodeficiency, Kawasaki disease, Juvenile Scleroderma, Uveitis, Juvenile Idiopathic arthritis",
+   "Publications: 220"
+  ],
+  "photo": "dr-ankur-jindal.jpg"
+ },
+ "vaishnaviiyengar": {
+  "id": "vaishnaviiyengar",
+  "name": "Dr. Vaishnavi Iyengar",
+  "details": [
+   "Consultant, Department of Immunology, B J Wadia Hospital for Children, Parel, Mumbai",
+   "Young Investigator Award and Travel Grant for APSID - JSAID conference in 2024.",
+   "One of the 15 participants selected from all over India for the 6th DHR sponsored Omics Course in Biomedical Research and Clinical Practice in 2022."
+  ],
+  "photo": "dr-vaishnavi-iyengar.jpg"
+ },
+ "ridhimaagarwal": {
+  "id": "ridhimaagarwal",
+  "name": "Dr. Ridhima Agarwal",
+  "details": [
+   "Senior Clinical Fellow Pediatric Rheumatology at Evelina Children’s Hospital, Guy’s and St. Thomas Trust, London.",
+   "MBBS, MD (Pediatrics), MRCPCH (UK), DM in Pediatric Immunology and Rheumatology.",
+   "Research fellowship funded by European Society for Immunodeficiencies - Gene editing in Stem Cell research at University College, London - Great Ormond Street Institute of Child Health."
+  ],
+  "photo": "dr-ridhima-agarwal.jpg"
+ },
+ "pratapkumarpatra": {
+  "id": "pratapkumarpatra",
+  "name": "Dr. Pratap Kumar Patra",
+  "details": [
+   "Additional Professor, Department of Paediatrics. AIIMS, Patna",
+   "MBBS, MD (Pediatrics), DM Pediatric Clinical Immunology & Rheumatology, PGIMER, Chandigarh.",
+   "Publications: 72 in National and International Journals."
+  ],
+  "photo": "dr-pratap-kumar-patra.jpg"
+ },
+ "chandrikasbhat": {
+  "id": "chandrikasbhat",
+  "name": "Dr. Chandrika S Bhat",
+  "details": [
+   "Consultant, Pediatric Immunology and Rheumatology Services, Rainbow Children’s Hospital, Bangalore.",
+   "MBBS, Kasturba Medical College, Bangalore.",
+   "MD Pediatrics, Grant Medical College and Sir JJ Group of Hospitals, Mumbai.",
+   "Fellowship in Pediatric Rheumatology and also worked as a Consultant, Pediatric Rheumatologist at Bristol Royal Hospital for Children, UK.",
+   "Areas of Interest: Immunomodulation in Critical Care, Cytokine Storm, CRMO, Pediatric Uveitis.",
+   "Publications in International, National Journal and Textbooks."
+  ],
+  "photo": "dr-chandrika-s-bhat.jpg"
+ },
+ "avinashsharma": {
+  "id": "avinashsharma",
+  "name": "Dr. Avinash Sharma",
+  "details": [
+   "Associate Professor, Pediatric Clinical Immunology and Rheumatology, Dept. of Pediatrics at Dr. Rajendra Prasad Government Medical College, Kangra, Himachal Pradesh",
+   "Post graduate in Pediatrics and DM in Pediatric Clinical Immunology and Rheumatology, PGIMER, Chandigarh",
+   "Faculty in various programs run by IAP including Master e-classes in Pediatric Rheumatology by IAP Delhi.",
+   "Publications: 35 and 05 book chapters to his credit."
+  ],
+  "photo": "dr-avinash-sharma.jpg"
+ },
+ "revathiraj": {
+  "id": "revathiraj",
+  "name": "Dr. Revathi Raj",
+  "details": [
+   "Consultant, Apollo Hospital providing comprehensive and holistic care for children with cancer and haematological disorders.",
+   "DCH, MRCP, FRCPath, UK",
+   "Trained in the UK in Pediatrics and Haematology, Oncology and Bone Marrow transplantation till 2001.",
+   "Areas of Interest: HSCT for Thalassaemia and PID, Childhood Leukaemia, novel therapies like haploidentical HSCT."
+  ],
+  "photo": "dr-revathi-raj.jpg"
+ },
+ "rajathathreya": {
+  "id": "rajathathreya",
+  "name": "Dr. Rajath Athreya",
+  "details": [
+   "Head of Pediatrics.",
+   "Sakra World Hospital Bangalore."
+  ],
+  "photo": "dr-rajath-01.jpg"
+ },
+ "nehasadhoo": {
+  "id": "nehasadhoo",
+  "name": "Dr. Neha Sadhoo",
+  "details": [
+   "Associate Consultant Anasthesia.",
+   "Sakra World Hospital Bangalore."
+  ],
+  "photo": "dr-neha-dhoo-01.jpg"
+ },
+ "balasubramanian": {
+  "id": "balasubramanian",
+  "name": "Dr. Balasubramanian",
+  "details": [
+   "Dr. S Balasubramanian",
+   "Kanchi Kamakoti Childs Trust Hospital.",
+   "Department of Pediatrician."
+  ],
+  "photo": "dr-s-balasubramanian.jpg"
+ },
+ "bhaskarshenoy": {
+  "id": "bhaskarshenoy",
+  "name": "Dr. Bhaskar Shenoy",
+  "details": [
+   "MD,Dip in PID, Fellowship in PID.",
+   "Fellowship in Applied Nutrition.",
+   "Head,Dept.of Pediatrics Cheif,Pedicatric Infectious Diseases Division Manipal Hospital,Bangalore."
+  ],
+  "photo": "dr-bhaskar-shenoy.jpg"
+ },
+ "narayanappa": {
+  "id": "narayanappa",
+  "name": "Dr. Narayanappa",
+  "details": [
+   "PROF.Paediatrics, JSSMC, JSSAHER, Mysuru.",
+   "National I.A.P – I.D. Chapter Chairman 2019."
+  ],
+  "photo": "dr-narayanappa.jpg"
+ },
+ "sumanthamperayan": {
+  "id": "sumanthamperayan",
+  "name": "Dr. Sumanth Amperayan",
+  "details": [
+   "MBBS and DCH at KMC, Kurnool.",
+   "DNB (Paed)."
+  ],
+  "photo": "dr-sumanth-amperayan.jpg"
+ },
+ "vanathivijayakumar": {
+  "id": "vanathivijayakumar",
+  "name": "Dr. Vanathi Vijayakumar",
+  "details": [
+   "Dnb ped Dnb Neonatology.",
+   "Senior consultant Neonatologist.",
+   "Kanchi kamakoti CHILDS Trust hospital - Nungambakkam Chennai."
+  ],
+  "photo": "dr-vanathi-vijayakumar.jpg"
+ },
+ "padmasani": {
+  "id": "padmasani",
+  "name": "Dr. Padmasani",
+  "details": [
+   "MBBS, MD (Paediatrics), MRCPCH(UK).",
+   "General Paediatrics, Infectious Diseases, Childhood Asthma & Nutrition."
+  ],
+  "photo": "dr-padmasani.jpg"
+ },
+ "dhanalaxmi": {
+  "id": "dhanalaxmi",
+  "name": "Dr. Dhanalaxmi",
+  "details": [
+   "Consultant - Pediatric Infectious Diseases.",
+   "Kanchi kamakoti CHILDS Trust hospital - Nungambakkam Chennai."
+  ],
+  "photo": "dr-dhanalaxmi.jpg"
+ },
+ "kandamarankrishnamurthy": {
+  "id": "kandamarankrishnamurthy",
+  "name": "Dr. Kandamaran Krishnamurthy",
+  "details": [
+   "Program Director"
+  ],
+  "photo": "untitled-1-copy.jpg"
+ },
+ "stevekoury": {
+  "id": "stevekoury",
+  "name": "Dr. Steve Koury",
+  "details": [
+   "Lecturer in Child Health St Augustine Campus Triniland."
+  ],
+  "photo": "dr-steve-koury.jpg"
+ },
+ "kirkdouglas": {
+  "id": "kirkdouglas",
+  "name": "Dr. Kirk Douglas",
+  "details": [
+   "Director, Center for Biosecurity Studies,",
+   "The University of the West Indies(UWI),",
+   "Cave Hill, Barbados"
+  ],
+  "photo": "dr-kirk-douglas.jpg"
+ },
+ "jennifermknightmadden": {
+  "id": "jennifermknightmadden",
+  "name": "Dr. Jennifer M. Knight-Madden",
+  "details": [
+   "Professor of Pediatric Pulmonology & Clinic Research,",
+   "Caribbean Institute for Health Research-Sickle Cell Unit,",
+   "The University of the West Indies - Jamaica"
+  ],
+  "photo": "dr-jennifer.jpg"
+ },
+ "angelajennings": {
+  "id": "angelajennings",
+  "name": "Dr. Angela Jennings",
+  "details": [
+   "HOD Pediatrics and Lead Consultant-Asthma Clininc,",
+   "QEH, Barbados"
+  ],
+  "photo": "dr-jennings.jpg"
+ },
+ "areefaalladin": {
+  "id": "areefaalladin",
+  "name": "Dr. Areefa Alladin",
+  "details": [
+   "Pediatric Nephrologist",
+   "Royal College of Physicians and Surgeons with Expertise in Allergy",
+   "PhD Student,Epidemiology",
+   "University of Calgary",
+   "Clinical Research Fellow, Lecturer University go Gayana"
+  ],
+  "photo": "dr-areefa.jpg"
+ },
+ "dawnalleyne": {
+  "id": "dawnalleyne",
+  "name": "Dr. Dawn Alleyne",
+  "details": [
+   "MICU Consultant and Pulmonologist",
+   "QEH",
+   "Barbados"
+  ]
+ },
+ "aruna": {
+  "id": "aruna",
+  "name": "Dr. Aruna Jagadish",
+  "designation": "Director, MedTrain",
+  "photo": "aruna.jpg"
+ }
+}
